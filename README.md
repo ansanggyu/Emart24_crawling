@@ -41,6 +41,4 @@ python Download_ImageFIles.py
 - 크롤링 대상 웹 페이지의 구조가 변경되면 코드 수정이 필요할 수 있습니다.
 - 크롤링 시 웹사이트의 이용 약관을 준수하시기 바랍니다.
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+실행 명령어 python -m uvicorn main:app --reload --port 8000(any)
